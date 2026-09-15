@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.obj
+build/
+.vscode/
+.idea/
+.DS_Store
+minigit
+search
+server
+client
+.minigit/
+demo/
